@@ -15,17 +15,17 @@ st.set_page_config(
 
 # 2. Sidebar - Professional Project Details
 with st.sidebar:
-    st.image("https://cdn-icons-png.flaticon.com/512/2092/2092663.png", width=80) 
+    st.image("https://cdn-icons-png.flaticon.com/512/2092/2092663.png", width=100) 
     st.title("Blue Team")
     st.markdown("**Cyber Anomaly Detection**")
     st.markdown("---")
     st.markdown("### Project Team:")
     st.markdown("- **Muhammad Ubaid** (Roll: BCS-48)")
-    st.markdown("- **[Friend 2 Name]** (Roll: XXXXX)")
-    st.markdown("- **[Friend 3 Name]** (Roll: XXXXX)")
+    st.markdown("- **Shahid Khan** (Roll: BCS-90)")
+    st.markdown("- **Saeed ur rahman** (Roll: BCS-59)")
     st.markdown("---")
     st.markdown("### Institution:")
-    st.markdown("**BS Computer Science**\n\nAbdul Wali Khan University Mardan")
+    st.markdown("**BS Computer Science**\n\nAbdul Wali Khan University Mardan Timergara Campus")
     st.markdown("---")
     st.caption("System Status: ONLINE 🟢")
 

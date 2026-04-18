@@ -20,7 +20,7 @@ with st.sidebar:
     st.markdown("**Cyber Anomaly Detection**")
     st.markdown("---")
     st.markdown("### Project Team:")
-    st.markdown("- **[Your Name]** (Roll: XXXXX)")
+    st.markdown("- **Muhammad Ubaid** (Roll: BCS-48)")
     st.markdown("- **[Friend 2 Name]** (Roll: XXXXX)")
     st.markdown("- **[Friend 3 Name]** (Roll: XXXXX)")
     st.markdown("---")

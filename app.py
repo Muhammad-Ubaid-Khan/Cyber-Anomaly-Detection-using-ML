@@ -17,7 +17,7 @@ st.set_page_config(
 with st.sidebar:
     st.image("https://cdn-icons-png.flaticon.com/512/2092/2092663.png", width=100) 
     st.title("Blue Team")
-    st.markdown("**Cyber Anomaly Detection**")
+    st.markdown("**Cyber Anomaly Detection Using ML**")
     st.markdown("---")
     st.markdown("### Project Team:")
     st.markdown("- **Muhammad Ubaid** (Roll: BCS-48)")
